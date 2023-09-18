@@ -22,7 +22,7 @@ namespace NotNull
 
 
     [AttributeUsage(AttributeTargets.Field, Inherited = true, AllowMultiple = true)]
-    sealed class NotNull : Attribute
+    sealed public class NotNull : Attribute
     {
     }
 }
