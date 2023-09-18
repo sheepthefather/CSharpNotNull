@@ -3,7 +3,7 @@
 ```
 public class MyClass:NotNullable
 {
-  [NotNull]
+  [NotNull.NotNull]
   string str;
 }
 ```
