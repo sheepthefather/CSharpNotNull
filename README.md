@@ -8,4 +8,4 @@ public class MyClass:NotNullable
 }
 ```
 
-This can cause exception
+This can throw exception
